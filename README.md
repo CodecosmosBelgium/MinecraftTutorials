@@ -1,2 +1,2 @@
 # MinecraftTutorials
-MD-files voor Tutorials
+This repository contains MD files used for codecosmos minecraft lessons
