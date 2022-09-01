@@ -1,2 +1,2 @@
-https://minecraft.makecode.com/#tutorial:https://github.com/CodecosmosBelgium/MinecraftTutorials/blob/main/Tests/test1
+https://minecraft.makecode.com/#tutorial:https://github.com/CodecosmosBelgium/MinecraftTutorials/Tests/test1
 https://makecode.microbit.org/#tutorial:https://github.com/CodecosmosBelgium/MinecraftTutorials/blob/main/Tests/test1
