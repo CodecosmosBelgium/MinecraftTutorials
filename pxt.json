@@ -8,8 +8,7 @@
     },
     "files": [
         "README.md",
-        "Tests/test1.md",
-        "MC1/lesson2.md"
+        "Tests/test1.md"
     ],
     "testFiles": [],
     "public": true,
