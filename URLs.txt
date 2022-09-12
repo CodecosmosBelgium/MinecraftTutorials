@@ -6,3 +6,7 @@ Minecraft reeks 1
 
 Les 1:
 https://minecraft.makecode.com/#tutorial:https://github.com/CodecosmosBelgium/MinecraftTutorials/Reeks1/Les1/exercise1
+
+https://github.com/CodecosmosBelgium/MinecraftTutorials/blob/main/Reeks1/Les1/exercise1.md
+
+https://minecraft.makecode.com/#tutorial:https://github.com/CodecosmosBelgium/MinecraftTutorials/Reeks1/Les1/exercise1

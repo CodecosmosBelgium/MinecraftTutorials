@@ -1,19 +1,5 @@
 ## Missie 1
 
-```template
-player.onChat("start", function() {
-    zetKlaar();
-})
-
-function zetKlaar() {
-    agent.teleport(world(87, 72, -28), EAST);
-}
-```
-
-### Agent Testen
-
-Gebruik het leerplatform om de oefeningen op te lossen
-
 ```block
 
 player.onChat("oef6", function () {
@@ -50,3 +36,17 @@ player.onChat("oef6", function () {
     agent.move(FORWARD, 6)
 })
 ```
+
+```template
+player.onChat("start", function() {
+    zetKlaar();
+})
+
+function zetKlaar() {
+    agent.teleport(world(87, 72, -28), EAST);
+}
+```
+
+### Agent Testen
+
+Gebruik het leerplatform om de oefeningen op te lossen
