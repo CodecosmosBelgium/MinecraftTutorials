@@ -5,3 +5,4 @@ https://minecraft.makecode.com/#tutorial:https://github.com/CodecosmosBelgium/Mi
 Minecraft reeks 1 
 
 Les 1:
+https://minecraft.makecode.com/#tutorial:https://github.com/CodecosmosBelgium/MinecraftTutorials/Reeks1/Les1/exercise1

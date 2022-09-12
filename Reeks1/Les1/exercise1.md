@@ -10,7 +10,12 @@ function zetKlaar() {
 }
 ```
 
-```blocks
+### Agent Testen
+
+Gebruik het leerplatform om de oefeningen op te lossen
+
+```block
+
 player.onChat("oef6", function () {
     agent.move(FORWARD, 6)
     agent.turn(LEFT_TURN)
@@ -45,7 +50,3 @@ player.onChat("oef6", function () {
     agent.move(FORWARD, 6)
 })
 ```
-
-### Agent Testen
-
-Gebruik het leerplatform om de oefeningen op te lossen
