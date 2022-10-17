@@ -10,8 +10,7 @@
         "Reeks 1/Missie 1/tutorial.md",
         "Reeks 1/Missie 1/tutorial_noExecrise.md",
         "Reeks 1/Missie 1/main.blocks",
-        "Reeks 1/Missie 1/main.ts",
-        "_locales/nl/Reeks 1/Missie 1/tutorial.md"
+        "Reeks 1/Missie 1/main.ts"
     ],
     "testFiles": [
         "Reeks 1/Missie 1/test.ts"
