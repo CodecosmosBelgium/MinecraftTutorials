@@ -1,23 +1,28 @@
 {
-    "name": "MinecraftTutorial",
-    "version": "0.7.3",
-    "description": "Minecraft tutorials for codecosmos",
-    "license": "none",
+    "name": "CodeCosmosMinecraftTutorials",
+    "version": "0.0.0",
+    "description": "",
     "dependencies": {
-        "core": "*"
+        "core": "*",
+        "builder": "*"
     },
     "files": [
-        "README.md",
-        "Tests/test1.md",
-        "Reeks1/Les1/noExercise.md",
-        "Reeks1/Les1/exercise1.md",
-        "Reeks1/Les1/exercise1_lvl56.md",
-        "Reeks1/Les1/exercise2.md"
+        "Reeks 1/Missie 1/tutorial.md",
+        "Reeks 1/Missie 1/tutorial_noExecrise.md",
+        "Reeks 1/Missie 1/main.blocks",
+        "Reeks 1/Missie 1/main.ts",
+        "_locales/nl/Reeks 1/Missie 1/tutorial.md"
     ],
-    "testFiles": [],
+    "testFiles": [
+        "Reeks 1/Missie 1/test.ts"
+    ],
     "public": true,
+    "targetVersions": {
+        "target": "1.6.27",
+        "targetId": "minecraft"
+    },
     "supportedTargets": [
         "minecraft"
     ],
-    "preferredEditor": "blocks"
+    "preferredEditor": "tsprj"
 }
